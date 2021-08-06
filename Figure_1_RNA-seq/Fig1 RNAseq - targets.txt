@@ -1,0 +1,21 @@
+# Date of Sequencing: 2018-6								
+# Core Lab: Frederick National Laboratory for Cancer Research, CCR-Sequencing Facility								
+# Investigator: Jaroslav Slamecka, Tao Deng								
+# PI: Ilyas Singec								
+# Institution: NIH								
+# Department: NCATS								
+# Lab:SCTL								
+# Notes:								
+FileName1	FileName2	SampleID	Factor	PlotColor	PlotPCH	plot.shape	Flowcell	Barcode
+16_D3_A1_1_S14_R1_001.fastq.gz	16_D3_A1_1_S14_R2_001.fastq.gz	16_D3_A1_1	D3	darkseagreen3	23	diamond	HMYG2BBXX	CCGTCC
+17_D3_A1_2_S15_R1_001.fastq.gz	17_D3_A1_2_S15_R2_001.fastq.gz	17_D3_A1_2	D3	darkseagreen3	23	diamond	HMYG2BBXX	GTCCGC
+18_D3_A1_3_S16_R1_001.fastq.gz	18_D3_A1_3_S16_R2_001.fastq.gz	18_D3_A1_3	D3	darkseagreen3	23	diamond	HMYG2BBXX	GTGAAA
+1_D0_SB_1_S11_R1_001.fastq.gz	1_D0_SB_1_S11_R2_001.fastq.gz	1_D0_SB_1	D0	cadetblue4	21	circle	HMYG2BBXX	ATCACG
+28_D7_A_1_S17_R1_001.fastq.gz	28_D7_A_1_S17_R2_001.fastq.gz	28_D7_A_1	D7	darkseagreen4	23	diamond	HMYG2BBXX	TGACCA
+29_D7_A_2_S18_R1_001.fastq.gz	29_D7_A_2_S18_R2_001.fastq.gz	29_D7_A_2	D7	darkseagreen4	23	diamond	HMYG2BBXX	ACAGTG
+2_D0_SB_2_S12_R1_001.fastq.gz	2_D0_SB_2_S12_R2_001.fastq.gz	2_D0_SB_2	D0	cadetblue4	21	circle	HMYG2BBXX	CGATGT
+30_D7_A_3_S19_R1_001.fastq.gz	30_D7_A_3_S19_R2_001.fastq.gz	30_D7_A_3	D7	darkseagreen4	23	diamond	HMYG2BBXX	GCCAAT
+34_D10_A_1_S20_R1_001.fastq.gz	34_D10_A_1_S20_R2_001.fastq.gz	34_D10_A_1	D10	tomato3	23	diamond	HMYG2BBXX	TAGCTT
+35_D10_A_2_S21_R1_001.fastq.gz	35_D10_A_2_S21_R2_001.fastq.gz	35_D10_A_2	D10	tomato3	23	diamond	HMYG2BBXX	GGCTAC
+36_D10_A_3_S22_R1_001.fastq.gz	36_D10_A_3_S22_R2_001.fastq.gz	36_D10_A_3	D10	tomato3	23	diamond	HMYG2BBXX	CTTGTA
+3_D0_SB_3_S13_R1_001.fastq.gz	3_D0_SB_3_S13_R2_001.fastq.gz	3_D0_SB_3	D0	cadetblue4	21	circle	HMYG2BBXX	TTAGGC

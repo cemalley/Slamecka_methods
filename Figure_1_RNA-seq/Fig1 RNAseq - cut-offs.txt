@@ -1,0 +1,19 @@
+$logFC
+$logFC$D10
+[1] 8
+
+$logFC$D7
+[1] 8
+
+$logFC$D3
+[1] 8
+
+$logFC$D0
+[1] -7.5
+
+
+$adjPval
+$adjPval$global
+[1] 1e-04
+
+
