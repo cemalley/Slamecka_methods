@@ -1,0 +1,64 @@
+# Project: hPSC Trophectodermal Differentiation, 53 samples											
+# General Groups: PSC, PSC-TE, 3L differentiation, choriocarcinoma lines											
+# Submitted: 2019-6 # Sequencing: 2019-9											
+# Core Lab: Frederick National Laboratory for Cancer Research, CCR-Sequencing Facility											
+# Investigator: Jaroslav Slamecka											
+# PI: Ilyas Singec											
+# Institution: NIH											
+# Department: NCATS											
+# Lab:SCTL											
+# Notes:											
+FileName1	FileName2	SampleID	SampleName.LIMS	CellType	Line	PlotColor	PlotPCH	PlotPCH.2	PlotShape	Flowcell	read.length
+JS10_S11_R1_001.fastq.gz	JS10_S11_R2_001.fastq.gz	JS10_S11	H9_p50_4D1	ESC	H9	cadetblue4	21	21	circle	HG2V2DRXX	150
+JS11_S12_R1_001.fastq.gz	JS11_S12_R2_001.fastq.gz	JS11_S12	H14_p32_r1	ESC	H14	cadetblue4	22	21	circle	HG2V2DRXX	150
+JS12_S13_R1_001.fastq.gz	JS12_S13_R2_001.fastq.gz	JS12_S13	WA17_p14_r1	ESC	WA17	cadetblue4	23	21	circle	HG2V2DRXX	150
+JS13_S14_R1_001.fastq.gz	JS13_S14_R2_001.fastq.gz	JS13_S14	H14_p34	ESC	H14	cadetblue4	22	21	circle	HG2V2DRXX	150
+JS14_S15_R1_001.fastq.gz	JS14_S15_R2_001.fastq.gz	JS14_S15	H14_p39_r1	ESC	H14	cadetblue4	22	21	circle	HG2V2DRXX	150
+JS15_S16_R1_001.fastq.gz	JS15_S16_R2_001.fastq.gz	JS15_S16	H9TE_p56_0_r1	TE	H9	tomato3	21	21	circle	HG2V2DRXX	150
+JS16_S17_R1_001.fastq.gz	JS16_S17_R2_001.fastq.gz	JS16_S17	H9TE_p56_0_r3	TE	H9	tomato3	21	21	circle	HG2V2DRXX	150
+JS17_S18_R1_001.fastq.gz	JS17_S18_R2_001.fastq.gz	JS17_S18	H14TE_p37_0_r1	TE	H14	tomato3	22	21	circle	HG2V2DRXX	150
+JS18_S19_R1_001.fastq.gz	JS18_S19_R2_001.fastq.gz	JS18_S19	H14TE_p37_0_r3	TE	H14	tomato3	22	21	circle	HG2V2DRXX	150
+JS19_S20_R1_001.fastq.gz	JS19_S20_R2_001.fastq.gz	JS19_S20	WA17TE_p19_0_r1	TE	WA17	tomato3	23	21	circle	HG2V2DRXX	150
+JS1_S1_R1_001.fastq.gz	JS1_S1_R2_001.fastq.gz	JS1_S1	H9_p64_2D2	ESC	H9	cadetblue4	21	21	circle	HG2V2DRXX	150
+JS20_S21_R1_001.fastq.gz	JS20_S21_R2_001.fastq.gz	JS20_S21	WA17TE_p19_0_r3	TE	WA17	tomato3	23	21	circle	HG2V2DRXX	150
+JS21_S22_R1_001.fastq.gz	JS21_S22_R2_001.fastq.gz	JS21_S22	WA17_p23_4DHD1	ESC	WA17	cadetblue4	23	21	circle	HG2V2DRXX	150
+JS22_S23_R1_001.fastq.gz	JS22_S23_R2_001.fastq.gz	JS22_S23	H14TE_i215_r1	TE	H14	tomato3	22	21	circle	HG2V2DRXX	150
+JS23_S24_R1_001.fastq.gz	JS23_S24_R2_001.fastq.gz	JS23_S24	H14TE_i215_r3	TE	H14	tomato3	22	21	circle	HG2V2DRXX	150
+JS24_S25_R1_001.fastq.gz	JS24_S25_R2_001.fastq.gz	JS24_S25	WA17TE_i215_r1	TE	WA17	tomato3	23	21	circle	HG2V2DRXX	150
+JS25_S26_R1_001.fastq.gz	JS25_S26_R2_001.fastq.gz	JS25_S26	WA17TE_i215_r3	TE	WA17	tomato3	23	21	circle	HG2V2DRXX	150
+JS26_S27_R1_001.fastq.gz	JS26_S27_R2_001.fastq.gz	JS26_S27	H9TE_i215_r1	TE	H9	tomato3	21	21	circle	HG2V2DRXX	150
+JS27_S28_R1_001.fastq.gz	JS27_S28_R2_001.fastq.gz	JS27_S28	H9TE_i215_r3	TE	H9	tomato3	21	21	circle	HG2V2DRXX	150
+JS28_S29_R1_001.fastq.gz	JS28_S29_R2_001.fastq.gz	JS28_S29	WA17TE_i218_r1	TE	WA17	tomato3	23	21	circle	HG2V2DRXX	150
+JS29_S30_R1_001.fastq.gz	JS29_S30_R2_001.fastq.gz	JS29_S30	WA17TE_i218_r3	TE	WA17	tomato3	23	21	circle	HG2V2DRXX	150
+JS2_S3_R1_001.fastq.gz	JS2_S3_R2_001.fastq.gz	JS2_S3	H9Meso_p47_0_r1	Meso	H9	darkolivegreen3	21	21	circle	HG2V2DRXX	150
+JS30_S31_R1_001.fastq.gz	JS30_S31_R2_001.fastq.gz	JS30_S31	H14_p42_r3	ESC	H14	cadetblue4	22	21	circle	HG2V2DRXX	150
+JS31_S32_R1_001.fastq.gz	JS31_S32_R2_001.fastq.gz	JS31_S32	WA17_p24_r1	ESC	WA17	cadetblue4	23	21	circle	HG2V2DRXX	150
+JS32_S2_R1_001.fastq.gz	JS32_S2_R2_001.fastq.gz	JS32_S2	H9TE_i218_r1	TE	H9	tomato3	21	21	circle	HG2V2DRXX	150
+JS33_S33_R1_001.fastq.gz	JS33_S33_R2_001.fastq.gz	JS33_S33	H9TE_i218_r3	TE	H9	tomato3	21	21	circle	HG2V2DRXX	150
+JS34_S34_R1_001.fastq.gz	JS34_S34_R2_001.fastq.gz	JS34_S34	H14TE_i218_r1	TE	H14	tomato3	22	21	circle	HG2V2DRXX	150
+JS35_S35_R1_001.fastq.gz	JS35_S35_R2_001.fastq.gz	JS35_S35	H14TE_i218_r3	TE	H14	tomato3	22	21	circle	HG2V2DRXX	150
+JS36_S36_R1_001.fastq.gz	JS36_S36_R2_001.fastq.gz	JS36_S36	WA17TE_i224_r1	TE	WA17	tomato3	23	21	circle	HG2V2DRXX	150
+JS37_S37_R1_001.fastq.gz	JS37_S37_R2_001.fastq.gz	JS37_S37	WA17TE_i224_r3	TE	WA17	tomato3	23	21	circle	HG2V2DRXX	150
+JS38_S38_R1_001.fastq.gz	JS38_S38_R2_001.fastq.gz	JS38_S38	H9TE_i224_r1	TE	H9	tomato3	21	21	circle	HG2V2DRXX	150
+JS39_S39_R1_001.fastq.gz	JS39_S39_R2_001.fastq.gz	JS39_S39	H9TE_i224_r3	TE	H9	tomato3	21	21	circle	HG2V2DRXX	150
+JS3_S4_R1_001.fastq.gz	JS3_S4_R2_001.fastq.gz	JS3_S4	H9_p49_2D2	ESC	H9	cadetblue4	21	21	circle	HG2V2DRXX	150
+JS40_S40_R1_001.fastq.gz	JS40_S40_R2_001.fastq.gz	JS40_S40	H14TE_i224_r1	TE	H14	tomato3	22	21	circle	HG2V2DRXX	150
+JS41_S41_R1_001.fastq.gz	JS41_S41_R2_001.fastq.gz	JS41_S41	H14TE_i224_r3	TE	H14	tomato3	22	21	circle	HG2V2DRXX	150
+JS42_S42_R1_001.fastq.gz	JS42_S42_R2_001.fastq.gz	JS42_S42	WA17_p26_r1	ESC	WA17	cadetblue4	23	21	circle	HG2V2DRXX	150
+JS43_S43_R1_001.fastq.gz	JS43_S43_R2_001.fastq.gz	JS43_S43	H9Endo_i52_r1	Endo	H9	darkorange1	21	21	circle	HG2V2DRXX	150
+JS44_S44_R1_001.fastq.gz	JS44_S44_R2_001.fastq.gz	JS44_S44	H9Meso_i52_r1	Meso	H9	darkolivegreen3	21	21	circle	HG2V2DRXX	150
+JS45_S45_R1_001.fastq.gz	JS45_S45_R2_001.fastq.gz	JS45_S45	H9Ecto_i52_r1	Ecto	H9	darkorchid2	21	21	circle	HG2V2DRXX	150
+JS46_S46_R1_001.fastq.gz	JS46_S46_R2_001.fastq.gz	JS46_S46	JEG3_p1_r1	CC	JEG3	dodgerblue3	24	23	diamond	HG2V2DRXX	150
+JS47_S47_R1_001.fastq.gz	JS47_S47_R2_001.fastq.gz	JS47_S47	JEG3_p2_r2	CC	JEG3	dodgerblue3	24	23	diamond	HG2V2DRXX	150
+JS48_S48_R1_001.fastq.gz	JS48_S48_R2_001.fastq.gz	JS48_S48	JEG3_p4_r1	CC	JEG3	dodgerblue3	24	23	diamond	HG2V2DRXX	150
+JS49_S49_R1_001.fastq.gz	JS49_S49_R2_001.fastq.gz	JS49_S49	JEG3_p4_r2	CC	JEG3	dodgerblue3	24	23	diamond	HG2V2DRXX	150
+JS4_S5_R1_001.fastq.gz	JS4_S5_R2_001.fastq.gz	JS4_S5	H9Endo_p47_0_r1	Endo	H9	darkorange1	21	21	circle	HG2V2DRXX	150
+JS50_S50_R1_001.fastq.gz	JS50_S50_R2_001.fastq.gz	JS50_S50	BeWo_p2_r1	CC	BeWo	dodgerblue3	25	23	diamond	HG2V2DRXX	150
+JS51_S51_R1_001.fastq.gz	JS51_S51_R2_001.fastq.gz	JS51_S51	BeWo_p2_r2	CC	BeWo	dodgerblue3	25	23	diamond	HG2V2DRXX	150
+JS52_S52_R1_001.fastq.gz	JS52_S52_R2_001.fastq.gz	JS52_S52	BeWo_p3_r1	CC	BeWo	dodgerblue3	25	23	diamond	HG2V2DRXX	150
+JS53_S53_R1_001.fastq.gz	JS53_S53_R2_001.fastq.gz	JS53_S53	BeWo_p4	CC	BeWo	dodgerblue3	25	23	diamond	HG2V2DRXX	150
+JS5_S6_R1_001.fastq.gz	JS5_S6_R2_001.fastq.gz	JS5_S6	H9Meso_p48_0_r2	Meso	H9	darkolivegreen3	21	21	circle	HG2V2DRXX	150
+JS6_S7_R1_001.fastq.gz	JS6_S7_R2_001.fastq.gz	JS6_S7	H9Ecto_p47_0_r1	Ecto	H9	darkorchid2	21	21	circle	HG2V2DRXX	150
+JS7_S8_R1_001.fastq.gz	JS7_S8_R2_001.fastq.gz	JS7_S8	H9Endo_p48_0_r1	Endo	H9	darkorange1	21	21	circle	HG2V2DRXX	150
+JS8_S9_R1_001.fastq.gz	JS8_S9_R2_001.fastq.gz	JS8_S9	H9Ecto_p48_0_r1	Ecto	H9	darkorchid2	21	21	circle	HG2V2DRXX	150
+JS9_S10_R1_001.fastq.gz	JS9_S10_R2_001.fastq.gz	JS9_S10	H9_p51_2D1	ESC	H9	cadetblue4	21	21	circle	HG2V2DRXX	150

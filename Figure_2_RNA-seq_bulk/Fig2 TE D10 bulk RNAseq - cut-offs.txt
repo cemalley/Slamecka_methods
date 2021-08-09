@@ -1,0 +1,46 @@
+$logFC
+$logFC$global
+[1] 8
+
+$logFC$hPSC
+[1] 8
+
+$logFC$TE
+[1] 8.5
+
+$logFC$Ecto
+[1] 7
+
+$logFC$Meso
+[1] 9
+
+$logFC$Endo
+[1] 9
+
+$logFC$CC
+[1] 8
+
+
+$adjPval
+$adjPval$global
+[1] 1e-04
+
+$adjPval$hPSC
+NULL
+
+$adjPval$TE
+NULL
+
+$adjPval$Ecto
+NULL
+
+$adjPval$Meso
+NULL
+
+$adjPval$Endo
+NULL
+
+$adjPval$CC
+NULL
+
+
