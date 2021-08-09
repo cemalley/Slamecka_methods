@@ -1,0 +1,40 @@
+$logFC
+$logFC$global
+[1] 8
+
+$logFC$TSC
+[1] 3
+
+$logFC$TE.p0
+[1] 6
+
+$logFC$TSC.late
+[1] 2
+
+$logFC$hypoxia
+[1] 3
+
+$logFC$TSC.vs.hPSC
+[1] 8
+
+
+$adjPval
+$adjPval$global
+[1] 1e-04
+
+$adjPval$TSC
+NULL
+
+$adjPval$TEp0
+NULL
+
+$adjPval$TSC.late
+NULL
+
+$adjPval$hypoxia
+NULL
+
+$adjPval$TSC.vs.hPSC
+NULL
+
+
